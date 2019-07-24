@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YouTubeAPIMVVM</string>
+    <string name="ok">OK</string>
+    <string name="internet">No Internet !!</string>
+    <string name="error_player">Error</string>
+    <string name="transition">transit</string>
+    <string name="wait">Please Wait..</string>
+    <string name="load">Load More..</string>
+</resources>
